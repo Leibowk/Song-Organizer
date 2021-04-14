@@ -1,7 +1,7 @@
 Song Organization Project
 
-Organizes songs by giving mp3 files the "Artist Name" of the song. Assumes all files will have the name of the artist, in the song name in the directory.
-By adding their name to the characteristic of the file, it allows for better ability to see favorite artists, organize better, and more!
+Organizes songs by giving mp3 files the "Artist Name" of the song. Assumes all files will have the name of the artist in the song name of the mp3.
+By adding their name to the characteristic of the file, it allows for better ability to see favorite artists, organization, and more!
 
 Example Directory:
 
